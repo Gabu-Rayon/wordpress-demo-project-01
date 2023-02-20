@@ -6,6 +6,7 @@
 .farbtastic * {
   position: absolute;
   cursor: crosshair;
+  /* cursor: crosshair; */
 }
 
 .farbtastic,

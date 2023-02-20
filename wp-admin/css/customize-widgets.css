@@ -3,7 +3,7 @@
 }
 
 /**
- * Hide all sidebar sections by default, only show them (via JS) once the
+ * Hide all sidebar sections by default, only show (via JS) once the
  * preview loads and we know whether the sidebars are used in the template.
  */
 
